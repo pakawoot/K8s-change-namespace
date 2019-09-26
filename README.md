@@ -5,7 +5,7 @@
 Run without a parameter to get all namespaces
 
 ```
-[ec2-user@EC2 ~]$./changeNS.sh
+[ec2-user@EC2 ~]$ ./changeNS.sh
 0) kube-system
 1) kube-public
 2) devops
